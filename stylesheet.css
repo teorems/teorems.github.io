@@ -34,7 +34,12 @@ div script{
 		width:90%;
 		font-size: 125%;
 		}
-	
+		footer {
+			width:90%;
+		}
+		h1 {
+			text-align:center;
+		}
 }
 
 #sketchnote {
