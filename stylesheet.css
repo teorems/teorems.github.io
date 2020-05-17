@@ -17,7 +17,7 @@ h2{
 }
 
 div script{
-	
+	width:90%;
 	margin: 0;
 	display: flex;
 	/* This centers our sketch horizontally. */
@@ -25,14 +25,12 @@ div script{
 
   /* This centers our sketch vertically. */
      align-items: center;
-	
-	 
 }
 
 @media screen and (max-width:768px) {
 	    body {
 		width:90%;
-		font-size: 200%;
+		font-size: 125%;
 		}
 		footer {
 			width:90%;
