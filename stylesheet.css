@@ -2,6 +2,7 @@ body {
 	background-color:black;
 	color:white;
 	font-family: 'VT323', monospace;
+	
 	margin:auto;
 	width:50%;
 	
@@ -29,6 +30,7 @@ div script{
 
 @media screen and (max-width:768px) {
 	    body {
+		
 		width:90%;
 		font-size: 125%;
 		}
@@ -51,7 +53,5 @@ footer {
 	padding : 0 1% 0
 }
 
-article {
-	font-size:125%;
-}
+
 	
