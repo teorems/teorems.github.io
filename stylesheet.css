@@ -4,6 +4,7 @@ body {
 	font-family: 'VT323', monospace;
 	margin:auto;
 	width:50%;
+	
 }
 h1 {
 	text-align: center;
@@ -14,6 +15,7 @@ h2{
 	text-align: left;
 	display:none;
 }
+
 div script{
 	
 	margin: 0;
@@ -30,9 +32,12 @@ div script{
 @media screen and (max-width:768px) {
 	body {
 		width:90%;
+		font-size:125%;
 		
 	}
-	
+	div {
+		width:90%;
+	}
 }
 
 #sketchnote {
