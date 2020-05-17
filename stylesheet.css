@@ -1,16 +1,11 @@
 body {
-	
-	font-family: 'Open Sans', sans-serif;
+	background-color:black;
+	color:white;
 	font-family: 'VT323', monospace;
-	
 	margin:auto;
 	width:50%;
-	
-	
 }
 h1 {
-	font-family: 'VT323', monospace;
-	
 	text-align: center;
 	background-color:none;
 	padding:10px 10px;
@@ -19,7 +14,7 @@ h2{
 	text-align: left;
 	display:none;
 }
-div {
+div script{
 	
 	margin: 0;
 	display: flex;
@@ -28,14 +23,14 @@ div {
 
   /* This centers our sketch vertically. */
      align-items: center;
+	
 	 
-	
-	
 }
 
 @media screen and (max-width:600px) {
 	body {
 		width:85%;
+		font-size:200%;
 	}
 	
 }
