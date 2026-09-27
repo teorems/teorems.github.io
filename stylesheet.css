@@ -41,6 +41,14 @@ footer p {
 	padding:5px;
 }
 
+.projects {
+	font-size: 1.4em;
+}
+
+a {
+	color: #7cfc00;
+}
+
 picture {
 	max-width: 600px;
 }
